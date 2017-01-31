@@ -6,8 +6,61 @@ body {
 	font-family: "Century Gothic", "Myriad Pro", "Myriad Pro Light";
 	font-size: 11px;
 }
+
+.header {
+	background-color: #00547C;
+}
+
 .row_caract {
 	background-color: #117E89;
+}
+
+
+/*CSS Header*/
+
+.navbar-default .navbar-text{color:#DAE5EC}.navbar-default .navbar-nav>li>a{color:#DAE5EC}.navbar-default .navbar-nav>li>a:focus,.navbar-default .navbar-nav>li>a:hover{
+	color: #71A7BB;
+	text-decoration:underline;
+}
+
+/*Submenu*/
+#menu>li:hover>ul{
+	display: block;
+	position:relative;
+	font-family: "Century Gothic", "Myriad Pro", "Myriad Pro Light";
+	font-size: 0.7em;
+	text-transform:none;
+	list-style:none;
+	color:#00B0D0;
+	-webkit-transition: all .3s ease;
+	-moz-transition: all .3s ease;
+	-ms-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	transition: all .3s ease;
+}
+#menu>li>ul {
+	display: none;
+}
+
+
+
+.logos_head {
+	background-image: url(../img/header/logos_escribiendo_02.png);
+	background-repeat: no-repeat;
+	background-color: #00547C;
+	margin-left: 5px;
+	min-height: 140px;
+	min-width: 190px;
+}
+.text_nav {
+	font-family: "Berlin Sans FB", "Berlin Sans FB Demi", Arial, Helvetica;
+	font-size: 2.0em;
+	text-transform: uppercase;
+}
+
+.hr_nav {
+	margin: 0 0 0 0px;
+	opacity: 0.7;
 }
 
 
@@ -54,7 +107,6 @@ body {
 	min-height: 374px;
 	padding: 15 25 0 25px;
 }
-
 
 
 
