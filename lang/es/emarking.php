@@ -132,6 +132,8 @@ $string ['scalelevels'] = 'Porcentajes para escala';
 $string ['studentachievement'] = '% de estudiantes';
 $string ['level'] = 'Nivel de logro';
 $string ['outcomesnotconfigured'] = 'No se han configurado resultados de aprendizaje para esta prueba E-Marking';
+$string['coloredrubricforced'] = 'Forzar rúbrica multicolor';
+$string['coloredrubricforced_help'] = 'Fuerza todas las actividades Emarking a utilizar rúbricas multicolor, ignorando la configuración del usuario';
 // GENERAL.
 $string ['criteria'] = 'Criterios';
 $string ['deleterow'] = 'Borrar fila';
@@ -376,7 +378,9 @@ $string ['printdetails'] = 'Detalles impresión';
 $string ['apply'] = 'Aplicar';
 $string ['statuspercriterion'] = 'Avance por pregunta';
 $string ['feedbackreport'] = 'Reporte de retroalimentación';
+$string ['feedback'] = 'Retroalimentación';
 $string ['viewfeedback'] = 'Ver retroalimentación';
+$string['feedbackwordcloud'] = 'Nube de palabras de retroalimentación';
 // EMARKING COST REPORT.
 $string ['period'] = 'Periodo';
 $string ['subcategoryname'] = 'Nombre de la sub-categoría';
