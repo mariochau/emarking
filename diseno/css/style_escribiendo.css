@@ -4,7 +4,7 @@
 body {
 	color: white;
 	font-family: "Century Gothic", "Myriad Pro", "Myriad Pro Light";
-	font-size: 11px;
+	font-size: 12px;
 }
 
 .header {
@@ -42,8 +42,6 @@ body {
 	display: none;
 }
 
-
-
 .logos_head {
 	background-image: url(../img/header/logos_escribiendo_02.png);
 	background-repeat: no-repeat;
@@ -76,7 +74,6 @@ body {
 .h2tit_actv a{
 	color: white;
 }
-
 .h2tit_actv a:hover{
 	opacity: 0.5;
 	text-decoration:none;
@@ -85,7 +82,7 @@ body {
 	opacity: 0.5;
 }
 .text_actv {
-	font-size: 11px;
+	font-size: 12px;
 	opacity: 0.7;
 }
 .img1_actv {
